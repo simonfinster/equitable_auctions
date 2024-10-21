@@ -9,7 +9,7 @@ import plot_config
 
 if __name__ == "__main__":
 
-    nbBuyers, nbItems = 10, 4
+    nbBuyers, nbItems = 3, 2
     cs = np.array([0, 0.5, 0.8, 1])
     alphas = np.array([0, 0.5, 1])
     gamma = 0.65

@@ -14,7 +14,7 @@ def inverse(x):
 
 if __name__ == "__main__":
 
-    nbBuyers, nbItems = 10, 4
+    nbBuyers, nbItems = 3, 2
     cs = np.linspace(0, 1, 101)
     alphas = np.linspace(0, 1, 101)
     gamma = 0.65
